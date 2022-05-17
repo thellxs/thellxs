@@ -12,7 +12,7 @@
   <img align="center" alt="thellxs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thellxs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thellxs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="thellxs-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809906677930786876/976139711141797958/download20220502120946.png>
+   <img align="right" alt="thellxs-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809906677930786876/976139711141797958/download20220502120946.png">
 </div>
   
   ##
