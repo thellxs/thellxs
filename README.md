@@ -12,6 +12,7 @@
   <img align="center" alt="thellxs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thellxs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="thellxs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/HMpdrXkAX3bmGh7dNOaylxrOw83L3EE9H2M5U9USU-s/https/picrew.me/shareImg/org/202205/338224_hwXKHh6Q.png?width=499&height=499>
   
 </div>
   
