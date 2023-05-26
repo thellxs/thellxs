@@ -9,4 +9,4 @@
 - 😄 Pronouns: ele/dele
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athellxs&layout=compact)](https://github.com/thellxs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thellxs&layout=compact)](https://github.com/thellxs/github-readme-stats)
