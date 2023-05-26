@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thellxs&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thellxs&layout=compact)](https://github.com/thellxs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thellxs&layout=compact&theme=dark)](https://github.com/thellxs/github-readme-stats)
 
 
   <div style="display:: inline_block"><br>
