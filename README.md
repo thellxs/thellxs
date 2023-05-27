@@ -3,8 +3,8 @@
 
 
 
-- 🌱 Estudando HTML, CSS e Javascript
-- 😄 Pronouns: ele/dele
+Estudando HTML CSS e Javascript
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thellxs&show_icons=true&theme=transparent)
